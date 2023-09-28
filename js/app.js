@@ -148,6 +148,8 @@ const album1 = {
 //   console.log(album3.albumDetails.formats);
   
   // Exercise 4:  Update the released property of album3 from a string into a Date object using that string
+
+  album3.albumDetails.released = new Date(album3.albumDetails.released);
   
   const album4 = {
     title: 'Remain in Light',
