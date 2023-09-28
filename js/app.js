@@ -121,8 +121,8 @@ const album1 = {
   
   // Exercise 2: Assign the string 'Sire' from album1 to a variable named label
   
-  
-  
+  label = album1.albumDetails.label;
+
   
   const album2 = {
     title: 'More Songs About Buildings and Food',
