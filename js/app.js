@@ -224,7 +224,7 @@ const album1 = {
   
   let albumIdx = 4;
   
-  
+  albumDetails = talkingHeadsAlbums[albumIdx].albumDetails
   
   
   /********** Don't look below here **********/
