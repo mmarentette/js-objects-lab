@@ -189,7 +189,7 @@ const album1 = {
   
   // Exercise 7:  Assign album6's formats array to a variable named formats
   
-  
+  formats = album6.albumDetails.formats;
   
   
   const album7 = {
